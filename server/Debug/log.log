@@ -1,0 +1,19 @@
+[INFO] 23:28:25:899 Servidor/(14527:14527): Servidor listo para recibir al cliente
+[INFO] 23:28:58:381 Servidor/(14527:14527): Se conecto un cliente!
+[INFO] 23:28:58:381 Servidor/(14527:14527): Me llego el mensaje valor
+[ERROR] 23:28:58:381 Servidor/(14527:14527): el cliente se desconecto. Terminando servidor
+[INFO] 23:31:32:403 Servidor/(14982:14982): Servidor listo para recibir al cliente
+[INFO] 23:31:49:539 Servidor/(14982:14982): Se conecto un cliente!
+[INFO] 23:31:49:539 Servidor/(14982:14982): Me llego el mensaje valor
+[ERROR] 23:31:49:539 Servidor/(14982:14982): el cliente se desconecto. Terminando servidor
+[INFO] 23:38:31:035 Servidor/(15876:15876): Servidor listo para recibir al cliente
+[INFO] 23:38:39:140 Servidor/(15876:15876): Se conecto un cliente!
+[INFO] 23:38:39:141 Servidor/(15876:15876): Me llego el mensaje valor
+[ERROR] 23:38:39:141 Servidor/(15876:15876): el cliente se desconecto. Terminando servidor
+[INFO] 23:49:05:963 Servidor/(17293:17293): Servidor listo para recibir al cliente
+[INFO] 23:49:22:677 Servidor/(17293:17293): Se conecto un cliente!
+[INFO] 23:49:22:677 Servidor/(17293:17293): Me llego el mensaje valor
+[INFO] 23:49:32:984 Servidor/(17293:17293): Me llegaron los siguientes valores:
+
+[INFO] 23:49:32:984 Servidor/(17293:17293): hola soy el paquete. No loguear
+[ERROR] 23:49:34:132 Servidor/(17293:17293): el cliente se desconecto. Terminando servidor
